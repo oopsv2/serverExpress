@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "60a5545ec5498afa8d78ad69",
+    "index": 0,
+    "guid": "7b9c67bd-5e03-4f52-925b-5e88edc81619",
+    "isActive": false,
+    "balance": "$2,458.69",
+    "picture": "http://placehold.it/32x32"
+  },
+  {
+    "_id": "60a5545e0e4facc9e6b18231",
+    "index": 1,
+    "guid": "f8ea3b8c-4433-45a6-9b20-f0e040fdb1ba",
+    "isActive": false,
+    "balance": "$1,985.11",
+    "picture": "http://placehold.it/32x32"
+  },
+  {
+    "_id": "60a5545ec559f866625af171",
+    "index": 2,
+    "guid": "fc71f3ee-27e3-44ff-b63a-b2dac06f7103",
+    "isActive": true,
+    "balance": "$2,056.55",
+    "picture": "http://placehold.it/32x32"
+  },
+  {
+    "_id": "60a5545ed7965963a3f934b8",
+    "index": 3,
+    "guid": "145c5e9e-3156-40bb-b963-fdab03f4d15c",
+    "isActive": false,
+    "balance": "$2,381.83",
+    "picture": "http://placehold.it/32x32"
+  },
+  {
+    "_id": "60a5545ebe221fa884ad2a65",
+    "index": 4,
+    "guid": "4d241b00-c85e-4e5e-add6-591b8d3d5fe6",
+    "isActive": false,
+    "balance": "$1,657.63",
+    "picture": "http://placehold.it/32x32"
+  },
+  {
+    "_id": "60a5545e1b61043f4a40ee35",
+    "index": 5,
+    "guid": "5a4d1be7-de12-4d56-b62c-5b3e8422b563",
+    "isActive": false,
+    "balance": "$3,108.32",
+    "picture": "http://placehold.it/32x32"
+  },
+  {
+    "_id": "60a5545ea42ee5f2fcee367b",
+    "index": 6,
+    "guid": "65562bcd-aea5-42a1-aab0-9a4ebbe2c9ea",
+    "isActive": true,
+    "balance": "$3,285.57",
+    "picture": "http://placehold.it/32x32"
+  }
+]
